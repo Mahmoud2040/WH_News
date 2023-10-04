@@ -1,4 +1,4 @@
-# News App for Android
+# WH News
 
 ![News App Logo](app_logo.png)
 
