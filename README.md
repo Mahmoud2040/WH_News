@@ -26,7 +26,7 @@ This Android News App is designed to provide users with up-to-date news articles
 
 To run this project on your local machine, follow these steps:
 
-1. Clone this repository: `git clone https://github.com/yourusername/NewsApp.git`
+1. Clone this repository: `git clone https://github.com/Mahmoud2040/WH_News.git`
 2. Open the project in Android Studio.
 3. Build and run the app on an emulator or physical device.
 
